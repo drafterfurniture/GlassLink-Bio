@@ -132,7 +132,6 @@ Optimized for:
 ## 📜 License
 
 Free to use for personal and commercial projects.
-[![License](https://img.shields.io/badge/License-Custom-blue?style=for-the-badge)](LICENSE)
 
 However:
 
