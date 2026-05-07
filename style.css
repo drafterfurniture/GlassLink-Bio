@@ -322,9 +322,10 @@ body{
 
 .footer{
   text-align:center;
-  color:#6b7280;
+  color:rgba(17,24,39,.72);
   font-size:13px;
-  padding:8px 0 20px;
+  font-weight:500;
+  padding:10px 0 24px;
 }
 
 /* =========================
