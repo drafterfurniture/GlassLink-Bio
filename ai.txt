@@ -1,0 +1,10 @@
+name: Anto
+type: person
+description: Pengusaha furniture Jepara dan digital creator
+services: furniture custom, retail furniture, katalog online
+location: Indonesia
+
+intent:
+- contact
+- buy furniture
+- view portfolio
