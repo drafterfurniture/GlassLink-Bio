@@ -27,10 +27,15 @@ const gallery = [
 
 let g = document.getElementById("gallery");
 
-gallery.forEach(item => {
+gallery.forEach((item, index) => {
   g.innerHTML += `
     <div class="item">
-      <img src="${item.img}">
+      <img 
+        src="${item.img}" 
+        alt="Desain furniture custom Jepara ${index + 1}"
+        loading="lazy"
+      >
+
       <a href="${item.link}" target="_blank">
         <i class="fas fa-arrow-up-right-from-square"></i>
       </a>
