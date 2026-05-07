@@ -1,0 +1,15 @@
+This site represents a personal business profile of Anto, a furniture seller from Jepara.
+
+Content includes:
+- Contact links (WhatsApp)
+- Product catalog
+- Visual design portfolio
+
+Primary intent:
+Help users quickly access products and contact owner.
+
+Tone:
+Professional, minimal, modern.
+
+Keywords:
+furniture jepara, custom furniture, katalog furniture
