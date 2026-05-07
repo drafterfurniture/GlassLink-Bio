@@ -89,7 +89,7 @@ body{
 }
 
 /* =========================
-   MOBILE FRAME
+   CONTAINER
 ========================= */
 
 .container{
@@ -106,9 +106,9 @@ body{
 .card{
   background:rgba(255,255,255,.58);
   border:1px solid rgba(255,255,255,.5);
-  border-radius:28px;
-  padding:20px;
-  margin-bottom:22px;
+  border-radius:32px;
+  padding:24px;
+  margin-bottom:24px;
 
   backdrop-filter:blur(18px);
   -webkit-backdrop-filter:blur(18px);
@@ -141,26 +141,28 @@ body{
 .profile-row{
   display:flex;
   align-items:center;
-  gap:16px;
+  gap:18px;
 }
 
 .avatar{
-  width:78px;
-  height:78px;
+  width:86px;
+  height:86px;
   border-radius:50%;
   object-fit:cover;
   flex-shrink:0;
+
   border:3px solid rgba(255,255,255,.7);
 }
 
 .profile h1{
-  font-size:22px;
+  font-size:34px;
+  line-height:1;
   color:#111827;
-  margin-bottom:4px;
+  margin-bottom:8px;
 }
 
 .profile p{
-  font-size:14px;
+  font-size:15px;
   color:#6b7280;
   line-height:1.5;
 }
@@ -172,26 +174,27 @@ body{
 .social{
   display:flex;
   justify-content:space-between;
-  gap:10px;
-  margin-top:18px;
+  gap:14px;
+  margin-top:26px;
 }
 
 .social a{
-  width:46px;
-  height:46px;
+  width:52px;
+  height:52px;
+
   display:flex;
   align-items:center;
   justify-content:center;
 
-  border-radius:14px;
+  border-radius:16px;
 
-  background:rgba(255,255,255,.8);
-  border:1px solid rgba(255,255,255,.7);
+  background:rgba(255,255,255,.82);
+  border:1px solid rgba(255,255,255,.75);
 
   color:#111827;
   text-decoration:none !important;
 
-  font-size:18px;
+  font-size:20px;
 
   transition:.25s ease;
 
@@ -204,18 +207,22 @@ body{
 }
 
 /* =========================
-   BUTTONS
+   LINKS
 ========================= */
+
+.links{
+  padding:26px 20px;
+}
 
 .btn{
   display:flex;
   align-items:center;
   justify-content:space-between;
 
-  padding:17px 18px;
-  border-radius:18px;
+  padding:18px 20px;
+  border-radius:20px;
 
-  margin:12px 0;
+  margin:14px 0;
 
   background:rgba(255,255,255,.82);
   border:1px solid rgba(255,255,255,.8);
@@ -257,15 +264,16 @@ body{
 ========================= */
 
 .gallery h2{
-  font-size:18px;
+  font-size:20px;
   color:#111827;
-  margin-bottom:14px;
+  margin-bottom:18px;
+  padding-left:2px;
 }
 
 .grid{
   display:grid;
   grid-template-columns:repeat(2,1fr);
-  gap:14px;
+  gap:16px;
 }
 
 .item{
@@ -278,7 +286,7 @@ body{
   height:100%;
   object-fit:cover;
 
-  border-radius:18px;
+  border-radius:22px;
 
   display:block;
 }
@@ -288,14 +296,14 @@ body{
   right:10px;
   bottom:10px;
 
-  width:34px;
-  height:34px;
+  width:36px;
+  height:36px;
 
   display:flex;
   align-items:center;
   justify-content:center;
 
-  border-radius:10px;
+  border-radius:12px;
 
   background:rgba(255,255,255,.92);
   color:#111827;
