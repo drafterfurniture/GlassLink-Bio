@@ -161,8 +161,6 @@ LICENSE
 
 If this project helps you, you can support via Trakteer:
 
-👉 https://trakteer.id/antodrafter
-
 [![Donate](https://img.shields.io/badge/Donate-Trakteer-ff5f5f?style=for-the-badge)](https://trakteer.id/antodrafter)
 
 
