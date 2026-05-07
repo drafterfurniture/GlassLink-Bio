@@ -19,10 +19,10 @@ fetch("links.json")
 
 // GALLERY
 const gallery = [
-  {img:"assets/img/1.webp", link:"#"},
-  {img:"assets/img/2.webp", link:"#"},
-  {img:"assets/img/3.webp", link:"#"},
-  {img:"assets/img/4.webp", link:"#"}
+  {img:"assets/img/1.webp", link:"https://drafterfurniture.com"},
+  {img:"assets/img/2.webp", link:"https://drafterfurniture.com"},
+  {img:"assets/img/3.webp", link:"https://drafterfurniture.com"},
+  {img:"assets/img/4.webp", link:"https://drafterfurniture.com"}
 ];
 
 let g = document.getElementById("gallery");
