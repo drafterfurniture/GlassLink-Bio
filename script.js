@@ -36,7 +36,13 @@ gallery.forEach((item, index) => {
         loading="lazy"
       >
 
-      <a href="${item.link}" target="_blank">
+      <a 
+  href="${item.link}" 
+  target="_blank"
+  aria-label="Lihat desain furniture ${index + 1}"
+  title="Lihat desain"
+  rel="noopener">
+  
         <i class="fas fa-arrow-up-right-from-square"></i>
       </a>
     </div>
