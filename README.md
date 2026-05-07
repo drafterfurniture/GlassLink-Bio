@@ -165,22 +165,6 @@ If this project helps you, you can support via Trakteer:
 
 [![Donate](https://img.shields.io/badge/Donate-Trakteer-ff5f5f?style=for-the-badge)](https://trakteer.id/antodrafter)
 
-```html
-<script type='text/javascript' src='https://edge-cdn.trakteer.id/js/embed/trbtn.min.js?v=14-05-2025'></script>
-
-<script type='text/javascript'>
-(function(){
-var trbtnId=trbtn.init(
-'Dukung Saya di Trakteer',
-'#be1e2d',
-'https://trakteer.id/antodrafter',
-'https://edge-cdn.trakteer.id/images/embed/trbtn-icon.png?v=14-05-2025',
-'40'
-);
-trbtn.draw(trbtnId);
-})();
-</script>
-```
 
 ---
 
