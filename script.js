@@ -9,7 +9,7 @@ fetch("links.json")
       <a href="${l.url}" class="btn">
         <div class="btn-left">
           <i class="${l.icon}"></i>
-          <span>${l.title}</span>
+          ${l.title}
         </div>
         <i class="fas fa-arrow-right"></i>
       </a>
@@ -36,4 +36,17 @@ gallery.forEach(item => {
       </a>
     </div>
   `;
+});
+
+// SCROLL ANIMATION
+const observer = new IntersectionObserver(entries => {
+  entries.forEach(entry => {
+    if(entry.isIntersecting){
+      entry.target.classList.add("show");
+    }
+  });
+});
+
+document.querySelectorAll(".reveal").forEach(el => {
+  observer.observe(el);
 });
