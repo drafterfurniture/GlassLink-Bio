@@ -1,16 +1,22 @@
-// LOAD LINKS
+// LINKS
 fetch("links.json")
 .then(res => res.json())
 .then(data => {
   let el = document.getElementById("links");
   data.forEach(l => {
     el.innerHTML += `
-      <a href="${l.url}" class="btn">${l.title}</a>
+      <a href="${l.url}" class="btn">
+        <div class="btn-left">
+          <i class="${l.icon}"></i>
+          ${l.title}
+        </div>
+        <i class="fas fa-arrow-right"></i>
+      </a>
     `;
   });
 });
 
-// GALLERY DATA (bisa dijadiin JSON juga nanti)
+// GALLERY
 const gallery = [
   {img:"assets/img/1.webp", link:"#"},
   {img:"assets/img/2.webp", link:"#"},
