@@ -2,8 +2,6 @@
 
 Modern glassmorphism link-in-bio template with animated gradient background, social profile, gallery portfolio, SEO optimization, GEO (Generative Engine Optimization), schema markup, and mobile-first UI.
 
-![Preview](https://anto.drafterfurniture.com/assets/img/favicon.png)
-
 ## ✨ Features
 
 - Modern glassmorphism UI
