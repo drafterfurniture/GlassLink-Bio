@@ -1,19 +1,27 @@
 # GlassLink Bio
 
-Modern glassmorphism link-in-bio template with animated gradient background, social profile, gallery portfolio, SEO optimization, GEO (Generative Engine Optimization), schema markup, and mobile-first UI.
+Modern glassmorphism link-in-bio template with animated gradient background, portfolio gallery, SEO optimization, GEO (Generative Engine Optimization), schema markup, and mobile-first responsive design.
+
+Built using lightweight HTML, CSS, and JavaScript for ultra fast performance on GitHub Pages, Cloudflare Pages, Netlify, and Vercel.
+
+---
 
 ## ✨ Features
 
-- Modern glassmorphism UI
-- Animated gradient background
-- Mobile-first responsive layout
-- SEO + GEO optimized
-- JSON-LD schema markup
-- Social media integration
-- Gallery portfolio section
-- Smooth scroll reveal animation
-- Lightweight (Vanilla HTML/CSS/JS)
-- Cloudflare & GitHub Pages ready
+* Modern glassmorphism UI
+* Animated gradient background
+* Mobile-first responsive layout
+* SEO optimized
+* GEO optimized (AI Search Ready)
+* Open Graph & Twitter Card
+* JSON-LD Schema Markup
+* ai.txt & llm.txt support
+* Social media integration
+* Portfolio gallery section
+* Smooth reveal scroll animation
+* Lightweight & ultra fast
+* Cloudflare Pages ready
+* GitHub Pages ready
 
 ---
 
@@ -25,11 +33,11 @@ Modern glassmorphism link-in-bio template with animated gradient background, soc
 
 ## 📦 Stack
 
-- HTML5
-- CSS3
-- Vanilla JavaScript
-- Font Awesome (local)
-- Plus Jakarta Sans (local)
+* HTML5
+* CSS3
+* Vanilla JavaScript
+* Font Awesome (local)
+* Plus Jakarta Sans (local)
 
 ---
 
@@ -45,109 +53,170 @@ index.html
 style.css
 script.js
 links.json
+
 robots.txt
 sitemap.xml
 ai.txt
 llm.txt
-⚡ Installation
+
+LICENSE
+README.md
+```
+
+---
+
+## ⚡ Installation
 
 Clone repository:
 
+```bash
 git clone https://github.com/username/repository.git
+```
 
-Run locally:
+Open locally:
 
+```bash
 open index.html
+```
 
 Or deploy easily using:
 
-GitHub Pages
-Cloudflare Pages
-Netlify
-Vercel
-🧠 SEO & GEO Ready
+* GitHub Pages
+* Cloudflare Pages
+* Netlify
+* Vercel
+
+---
+
+## 🧠 SEO & GEO Ready
 
 Includes:
 
-Open Graph
-Twitter Card
-Canonical URL
-JSON-LD Schema
-Breadcrumb Schema
-ai.txt
-llm.txt
-robots.txt
-sitemap.xml
-📜 License
+* Open Graph
+* Twitter Card
+* Canonical URL
+* Breadcrumb Schema
+* JSON-LD Schema
+* ai.txt
+* llm.txt
+* robots.txt
+* sitemap.xml
+
+Optimized for:
+
+* Google Search
+* Google AI Overview
+* ChatGPT Search
+* Perplexity
+* Gemini
+* Claude
+* AI crawlers & LLM indexing
+
+---
+
+## 📱 Perfect For
+
+* Furniture businesses
+* Freelancers
+* Digital creators
+* Portfolio websites
+* Instagram bio links
+* TikTok bio links
+* Agency profile pages
+* Personal branding
+* Product showcase
+* Modern landing pages
+
+---
+
+## 📜 License
 
 Free to use for personal and commercial projects.
 
 However:
 
-Modification and redistribution require attribution.
-Projects generating profit/revenue must include:
-credit to original creator
-source link to repository or demo
+* Modification and redistribution require attribution.
+* Projects generating profit/revenue must include:
+
+  * credit to original creator
+  * source link to original project
 
 Required attribution example:
 
+```txt
 Template by Anto — https://anto.drafterfurniture.com
+```
 
-Full license available in LICENSE file.
+Commercial relicensing or attribution removal requires permission.
 
-☕ Support / Donate
+See full license in:
+
+```txt
+LICENSE
+```
+
+---
+
+## ☕ Support / Donate
 
 If this project helps you, you can support via Trakteer:
 
-<script type='text/javascript' src='https://edge-cdn.trakteer.id/js/embed/trbtn.min.js?v=14-05-2025'></script> <script type='text/javascript'> (function(){ var trbtnId=trbtn.init( 'Dukung Saya di Trakteer', '#be1e2d', 'https://trakteer.id/antodrafter', 'https://edge-cdn.trakteer.id/images/embed/trbtn-icon.png?v=14-05-2025', '40' ); trbtn.draw(trbtnId); })(); </script>
-
 👉 https://trakteer.id/antodrafter
 
-👤 Creator
+```html
+<script type='text/javascript' src='https://edge-cdn.trakteer.id/js/embed/trbtn.min.js?v=14-05-2025'></script>
+
+<script type='text/javascript'>
+(function(){
+var trbtnId=trbtn.init(
+'Dukung Saya di Trakteer',
+'#be1e2d',
+'https://trakteer.id/antodrafter',
+'https://edge-cdn.trakteer.id/images/embed/trbtn-icon.png?v=14-05-2025',
+'40'
+);
+trbtn.draw(trbtnId);
+})();
+</script>
+```
+
+---
+
+## 👤 Creator
 
 Anto
 Furniture Jepara & Digital Creator
 
-Website: https://anto.drafterfurniture.com
-Main Brand: https://drafterfurniture.com
-⭐ Credits
+🌐 Website
+https://anto.drafterfurniture.com
 
-Inspired by modern iOS glassmorphism and minimal portfolio interfaces.
+🏢 Main Brand
+https://drafterfurniture.com
 
+📧 Email
+[hi@drafterfurniture.com](mailto:hi@drafterfurniture.com)
+
+💬 WhatsApp
++62 888-8085-772
 
 ---
 
-# 📜 `LICENSE`
+## ⭐ Credits
 
-```txt
-GlassLink Bio License v1.0
+Inspired by:
 
-Copyright (c) 2026 Anto
-https://anto.drafterfurniture.com
+* iOS glassmorphism UI
+* modern portfolio landing pages
+* minimal mobile-first interfaces
 
-Permission is hereby granted to any person obtaining a copy
-of this software and associated documentation files to use,
-copy, modify, and distribute the software, subject to the
-following conditions:
+---
 
-1. Personal and commercial use is allowed.
+## 🔥 Keywords
 
-2. Modification, redistribution, or use in projects generating
-profit/revenue MUST include clear attribution to the original creator.
+link in bio template, glassmorphism website, portfolio landing page, SEO optimized bio link, modern personal website, creator landing page, furniture portfolio website, mobile-first portfolio, AI optimized website, GEO optimization, Cloudflare Pages template, GitHub Pages template
 
-3. Attribution must include:
-   - Creator name: Anto
-   - Source link:
-     https://anto.drafterfurniture.com
+---
 
-4. Removing attribution from commercial or modified versions
-without written permission is prohibited.
+## ❤️ Give a Star
 
-5. This software is provided "as is", without warranty of any kind.
-
-Required attribution example:
-
-"Template by Anto — https://anto.drafterfurniture.com"
-
-For commercial relicensing or attribution removal permission,
-please contact the creator.
+If you like this project, consider giving it a ⭐ on GitHub.
