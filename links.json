@@ -1,6 +1,6 @@
 [
-  {"title":"💬 WhatsApp","url":"https://wa.me/62xxx"},
-  {"title":"🪑 Katalog","url":"#"},
-  {"title":"🛒 Shopee","url":"#"},
-  {"title":"📸 Instagram","url":"#"}
+  {"title":"WhatsApp","url":"https://wa.me/62xxx","icon":"fab fa-whatsapp"},
+  {"title":"Katalog","url":"#","icon":"fas fa-chair"},
+  {"title":"Shopee","url":"#","icon":"fas fa-cart-shopping"},
+  {"title":"Instagram","url":"#","icon":"fab fa-instagram"}
 ]
