@@ -159,9 +159,8 @@ LICENSE
 
 ## ☕ Support / Donate
 
-If this project helps you, you can support via Trakteer:
+If this project helps you, you can support via:
 
-[![Donate](https://img.shields.io/badge/Donate-Trakteer-ff5f5f?style=for-the-badge)](https://trakteer.id/antodrafter)
 
 <p align="center">
 
