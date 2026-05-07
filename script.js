@@ -19,10 +19,10 @@ fetch("links.json")
 
 // GALLERY
 const gallery = [
-  {img:"assets/img/1.jpg", link:"#"},
-  {img:"assets/img/2.jpg", link:"#"},
-  {img:"assets/img/3.jpg", link:"#"},
-  {img:"assets/img/4.jpg", link:"#"}
+  {img:"assets/img/1.webp", link:"#"},
+  {img:"assets/img/2.webp", link:"#"},
+  {img:"assets/img/3.webp", link:"#"},
+  {img:"assets/img/4.webp", link:"#"}
 ];
 
 let g = document.getElementById("gallery");
